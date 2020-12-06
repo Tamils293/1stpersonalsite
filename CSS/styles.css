@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  text-align: center;
+  color:#40515E ;
+  }
+
+h1{
+  margin:20px auto 0 auto;
+  font-family: 'Montez', cursive;
+  font-size:5.625rem;
+  color: #66bfbf;
+
+}
+h2{
+  font-family: 'Merriweather', serif;
+  color: #66bfbf;
+  font-weight:bold;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  color: #11999e;
+}
+a{
+  color: #11999e;
+  text-decoration:none;
+
+}
+a:hover
+{
+  color:white ;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+.TOPCONTAINER{
+  background-color: #a1eafb;
+  padding-top: 100px;
+  position: relative;
+
+}
+.mountain{
+  width: 400px;
+
+  height:300px;
+
+}
+.cloud2{
+  position:absolute;
+  top:300px;
+  left:360px;
+  height: 100px;
+  width: 100px;
+}
+.cloud{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  right: 400px;
+  top: 20px;
+}
+.propic{
+  height:30%;
+  width:30% ;
+}
+.batminton-pic{
+  float: left;
+  margin-right: 20px;
+  height:30%;
+  width:30% ;
+}
+.giphy{
+  height:30%;
+  width:30% ;
+  float: right;
+  margin-left: 20px;
+
+}
+.skill-row{
+  width:50%;
+  margin: 80px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 33%;
+  margin:100px auto 0 auto;
+  line-height: 2;
+  font-weight: bold;
+  color: #40515E;
+
+}
+
+hr{
+  border: dotted #79a3b1 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+.contact-me {
+  line-height: 2;
+  width: 30%;
+  font-weight: bold;
+  margin: 40px auto 40px;
+
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 100px;
+
+}
+.footer-link1{
+  padding: 20px;
+}
+.footer-link2{
+  padding: 20px;}
+.footer-link3{
+  padding: 20px;
+}
